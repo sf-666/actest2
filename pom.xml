@@ -33,8 +33,7 @@
         <configuration>
           <verbose>true</verbose>
           <fork>true</fork>
-         <!-- <executable>/opt/jdk1.8.0_101/bin/javac</executable>--><!--  Linux Version--> 
-          <executable>C:\Program Files\Java\jdk1.8.0_101\bin\javac<!-- path-to-javac --></executable><!--  Windows Version-->
+         <executable>/opt/jdk1.8.0_101/bin/javac</executable>
           <compilerVersion>1.8</compilerVersion>
         </configuration>
       </plugin>
