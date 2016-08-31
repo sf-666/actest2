@@ -20,7 +20,7 @@ public class CalculatorTest {
 
 	@Before
 	public void beforeEachTest() {
-		System.out.println("This is executed before each Test. Cool");
+		System.out.println("This is executed before each Test. auto");
 	}
 
 	@After
